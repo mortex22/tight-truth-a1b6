@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "tight-truth-a1b6",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "ea26361a-7a5d-4601-9f11-35ba2eef18ea",
+      "database_name": "lucky-salad-73d5-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
